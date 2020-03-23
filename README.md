@@ -1,6 +1,5 @@
 # ea-python-2020-07-08-automation
-# ea-python-2020-07-08-automation
-# assignment1
+
 This repository contains the notebooks for this week's assignment.
 Complete the homework in each .ipynb notebook, commit your work, and
 push the changes to github. Your instructor will pull the completed
